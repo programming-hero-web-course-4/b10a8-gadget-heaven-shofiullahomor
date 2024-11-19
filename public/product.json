@@ -1,0 +1,204 @@
+[
+  {
+    "id": "C001",
+    "product_title": "MacBook Pro 14-inch",
+    "product_image": "https://i.ibb.co.com/s6rHrhd/Mac-Book-Pro-14-inch.jpg",
+    "category": "Computers",
+    "price": 2499,
+    "description": "Apple's latest 14-inch MacBook Pro with M1 chip for powerful performance.",
+    "Specification": [
+      "Apple M1 Pro chip",
+      "16GB RAM",
+      "512GB SSD",
+      "14-inch Retina display",
+      "macOS"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "C002",
+    "product_title": "Dell XPS 13",
+    "product_image": "https://i.ibb.co.com/LhnZvCc/Dell-XPS-13.jpg",
+    "category": "Computers",
+    "price": 1399,
+    "description": "Dell XPS 13 with 11th Gen Intel Core processor, known for its sleek design and performance.",
+    "Specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD",
+      "13.4-inch FHD display",
+      "Windows 11"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "C003",
+    "product_title": "HP Spectre x360",
+    "product_image": "https://i.ibb.co.com/bvkmZJH/HP-Spectre-x360.jpg",
+    "category": "Computers",
+    "price": 1599,
+    "description": "HP Spectre x360, a convertible laptop with a 360-degree hinge and top-tier specs.",
+    "Specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "1TB SSD",
+      "13.3-inch FHD touchscreen",
+      "Windows 11"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": "C004",
+    "product_title": "Microsoft Surface Laptop 4",
+    "product_image": "https://i.ibb.co.com/S508wBD/Microsoft-Surface-Laptop-4.jpg",
+    "category": "Computers",
+    "price": 1299,
+    "description": "Microsoft Surface Laptop 4 offers excellent battery life and a high-resolution display.",
+    "Specification": [
+      "AMD Ryzen 5",
+      "8GB RAM",
+      "256GB SSD",
+      "13.5-inch PixelSense display",
+      "Windows 10"
+    ],
+    "availability": false,
+    "rating": 4.5
+  },
+  {
+    "id": "C005",
+    "product_title": "Lenovo ThinkPad X1 Carbon",
+    "product_image": "https://i.ibb.co.com/xSFfVwn/Lenovo-Think-Pad-X1-Carbon.jpg",
+    "category": "Computers",
+    "price": 1599,
+    "description": "Lenovo's premium ThinkPad X1 Carbon, known for durability and performance.",
+    "Specification": [
+      "Intel Core i7",
+      "16GB RAM",
+      "512GB SSD",
+      "14-inch FHD display",
+      "Windows 10"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": "C006",
+    "product_title": "Asus ROG Zephyrus G14",
+    "product_image": "https://i.ibb.co.com/2gBd4ZG/Asus-ROG-Zephyrus-G14.jpg",
+    "category": "Computers",
+    "price": 1499,
+    "description": "A powerful gaming laptop with AMD Ryzen processor and NVIDIA GeForce GPU.",
+    "Specification": [
+      "AMD Ryzen 9",
+      "16GB RAM",
+      "1TB SSD",
+      "14-inch QHD display",
+      "Windows 10"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "P001",
+    "product_title": "iPhone 13 Pro",
+    "product_image": "https://i.ibb.co.com/k3JmLSJ/i-Phone-13-Pro.jpg",
+    "category": "Phones",
+    "price": 999,
+    "description": "Apple's iPhone 13 Pro with A15 Bionic chip and 5G technology.",
+    "Specification": [
+      "6.1-inch display",
+      "A15 Bionic chip",
+      "128GB storage",
+      "5G enabled",
+      "iOS 15"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": "P002",
+    "product_title": "Samsung Galaxy S21",
+    "product_image": "https://i.ibb.co.com/Pcpr8m3/Samsung-Galaxy-S21.jpg",
+    "category": "Phones",
+    "price": 799,
+    "description": "Samsung Galaxy S21 with a high-quality camera and smooth performance.",
+    "Specification": [
+      "6.2-inch display",
+      "Exynos 2100",
+      "128GB storage",
+      "5G enabled",
+      "Android 11"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "W001",
+    "product_title": "Apple Watch Series 7",
+    "product_image": "https://i.ibb.co.com/3p0WvP5/Apple-Watch-Series-7.jpg",
+    "category": "Smart Watches",
+    "price": 399,
+    "description": "Apple Watch Series 7 with a larger display and advanced health tracking features.",
+    "Specification": [
+      "41mm display",
+      "GPS",
+      "Heart rate monitor",
+      "Water resistant",
+      "watchOS 8"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": "W002",
+    "product_title": "Samsung Galaxy Watch 4",
+    "product_image": "https://i.ibb.co.com/b2DDJTJ/Samsung-Galaxy-Watch-4.jpg",
+    "category": "Smart Watches",
+    "price": 249,
+    "description": "Samsung Galaxy Watch 4 with body composition analysis and advanced fitness tracking.",
+    "Specification": [
+      "44mm display",
+      "GPS",
+      "Heart rate monitor",
+      "Water resistant",
+      "Wear OS"
+    ],
+    "availability": false,
+    "rating": 4.6
+  },
+  {
+    "id": "C001",
+    "product_title": "Anker PowerCore 26800",
+    "product_image": "https://i.ibb.co.com/3zw9234/Anker-Power-Core-26800.jpg",
+    "category": "Power Banks",
+    "price": 99,
+    "description": "Anker's high-capacity power bank with dual USB output and fast charging.",
+    "Specification": [
+      "26800mAh capacity",
+      "Dual USB output",
+      "18W Power Delivery",
+      "Portable design"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "C002",
+    "product_title": "RAVPower 20000mAh Power Bank",
+    "product_image": "https://i.ibb.co.com/Nr3rrQN/RAVPower-20000m-Ah-Power-Bank.jpg",
+    "category": "Power Banks",
+    "price": 89,
+    "description": "A portable 20000mAh power bank with fast charging support.",
+    "Specification": [
+      "20000mAh capacity",
+      "USB-C and USB-A ports",
+      "18W PD",
+      "Compact design"
+    ],
+    "availability": false,
+    "rating": 4.5
+  }
+]
