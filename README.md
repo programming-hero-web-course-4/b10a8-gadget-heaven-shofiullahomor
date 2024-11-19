@@ -1,8 +1,13 @@
-# React + Vite
+#Gadget Heaven
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1>GADGET HEAVEN</h1>
+<h2>This Project is for technology accesories related</h2>
+<h1>Features includes</h1>
+<ul>
+<li>All products showed in home page </li>
+<li>Single category button added </li>
+<li>Sorted product added </li>
+<li>Diffrent navbar added </li>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</ul>
+<h1>Live Link: https://cheery-paletas-a97eee.netlify.app/</h1>
